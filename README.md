@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abhishekkumary901-create/Movie-Genre-Prediction/blob/main/Copy_of_Movie_Genre_Task_1.ipynb)
 # Movie Genre Prediction
 
 This project predicts the genre of a movie using its plot/description.
